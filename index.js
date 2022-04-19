@@ -27,7 +27,7 @@ const paletas = [
     id: 3,
     sabor: 'Chocolate Belga',
     descricao:
-      'Paleta feita com puro creme de Chocolate Belga.',
+      'Paleta feita com creme de Chocolate Belga à 90%.',
     foto: './assets/images/chocolate-belga.png',
     preco: 10.0,
   },
@@ -35,7 +35,7 @@ const paletas = [
     id: 4,
     sabor: 'Côco',
     descricao:
-      'Paleta feita com Côco, sem adição de açúcar',
+      'Paleta feita com Côco in natura, sem adição de açúcar',
     foto: './assets/images/coco.png',
     preco: 8.0,
   },
@@ -43,7 +43,7 @@ const paletas = [
     id: 5,
     sabor: 'Morango com Nutella',
     descricao:
-      'Paleta feita com Morango, com recheio cremoso de Nutella',
+      'Paleta feita com Morangos frescos, com recheio cremoso de Nutella',
     foto: './assets/images/morango-com-nutella.png',
     preco: 10.0,
   },
@@ -51,7 +51,7 @@ const paletas = [
     id: 6,
     sabor: 'Ninho com Ovomaltine',
     descricao:
-      'Paleta feita com creme de Leite Ninho, com recheio crocante de Ovomaltine',
+      'Paleta feita com Leite Ninho em creme e recheio crocante de Ovomaltine',
     foto: './assets/images/ninho-com-ovomaltine.png',
     preco: 12.0,
   },
